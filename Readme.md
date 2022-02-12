@@ -1,4 +1,4 @@
-#Go_TXNS
+# Go_TXNS
 This is a web application to keep track of all your transactions.
 * Send Money to a Friend
 * Receive Money from a Friend
