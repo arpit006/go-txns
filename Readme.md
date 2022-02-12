@@ -10,5 +10,5 @@ This app lets you visit all your previous transactions.
 ## List of Libraries explored and used
 | Category | List  | Go command |
 |----------|------|-------------|
-| Logging | <ul><li>[x] Logrus</li><li>[ ] glog</li></ul> | <ul><li>go</li><ul> |
+| **Logging** | <ul><li>[x] [Logrus](https://github.com/Sirupsen/logrus)</li><li>[ ] glog</li></ul> | <ul><li>go</li><ul> |
 
