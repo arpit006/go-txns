@@ -1,0 +1,4 @@
+app-host: "127.0.0.1"
+app-port: 8765
+log-level: info # [info, debug, error]
+
